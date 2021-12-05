@@ -1,6 +1,0 @@
-{"employees":[  
-    {"id":"1111","firstname":"Nicole", "lastname":"Tosello","emailid":"nicole1111@gmail.com"},  
-    {"id":"2222","firstname":"Bob", "lastname":"Smith","emailid":"BobSmith2222@gmail.com"},  
-    {"id":"3333","firstname":"Joe", "lastname":"Clark","emailid":"JoeClark3333@gmail.com"}, 
-    {"id":"4444","firstname":"Susan", "lastname":"Walsh","emailid":"SusanWalsh4444@gmail.com"} 
-]}

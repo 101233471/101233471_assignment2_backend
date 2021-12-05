@@ -1,0 +1,23 @@
+{
+  "name": "101233471_assignment2_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/101233471/101233471_assignment2_backend.git"
+  },
+  "author": "Nicole Tosello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/101233471/101233471_assignment2_backend/issues"
+  },
+  "homepage": "https://github.com/101233471/101233471_assignment2_backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14"
+  }
+}
