@@ -18,9 +18,9 @@ mongoose.connect(DB_URL, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(() => {
-	console.log("Successfully connected to the database mongoDB Atlas Server");    
+	console.log("Successfully connected database mongoDB Atlas Server");    
 }).catch(err => {
-  console.log('Could not connect to the database. Exiting now...', err);
+  console.log('Could not connect to the database. Exiting...', err);
   process.exit();
 });
 
